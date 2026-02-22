@@ -81,7 +81,7 @@ Your registry is served via a proxy service that reads your GitHub repo and expo
 
 **Your registry URL:**
 ```
-https://mcp-private-registry-b08b0.web.app/{org}/{repo}/main/v0.1/servers
+https://mcp-reg.com/{org}/{repo}/main/v0.1/servers
 ```
 
 Replace `{org}` and `{repo}` with your GitHub organization and repository name.
