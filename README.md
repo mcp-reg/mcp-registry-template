@@ -75,6 +75,8 @@ Then add it to `registry.json`:
 
 Commit your changes and push to GitHub. Your registry is now live.
 
+To view the registry UI go to: https://mcp-reg.com and enter your repo: `REPO_OWNER/REPO_NAME`. Or use the url directly (relacing `REPO_OWNER` and `REPO_NAME`): `https://mcp-reg.com/REPO_NAME/REPO_NAME`.
+
 ### 5. Configure GitHub Copilot to Use Your Registry
 
 Your registry is served via a proxy service that reads your GitHub repo and exposes it in MCP registry format. No signup required.
